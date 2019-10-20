@@ -1,0 +1,2 @@
+# lagrangianRelaxationSolveSimpleIntegerProgramming
+Lagrangian relaxation method solves simple integer programming
